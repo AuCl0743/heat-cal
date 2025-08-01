@@ -1,9 +1,8 @@
-package Component;
+package component;
 
 import entity.ComponentSize;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class PanelComponent extends JPanel {
 
